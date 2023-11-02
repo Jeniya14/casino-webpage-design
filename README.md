@@ -1,6 +1,6 @@
 # casino-webpage-design
 
-This repository contains the code for casino webpage. It's a simple webpage built using HTML and CSS
+This repository contains the source code for a visually stunning casino-themed webpage designed using HTML and CSS. Inspired by an engaging template found online, this project was created to showcase the aesthetic appeal and design potential achievable with HTML and CSS.
 
 ![Screenshot](Screenshot1.png)
 
@@ -13,3 +13,8 @@ This repository contains the code for casino webpage. It's a simple webpage buil
 ![Screenshot](Screenshot5.png)
 
 ![Screenshot](Screenshot6.png)
+
+## Technologies Used:
+- HTML
+- CSS
+
